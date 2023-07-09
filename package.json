@@ -1,0 +1,12 @@
+{
+	"name": "kovaak-utility-scripts",
+	"version": "0.0.1",
+	"description": "A collection of Node.js utility scripts for Kovaak's Aim Trainer",
+	"main": "getTimePlayedInScenariosInMilliseconds.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "TheViohazard",
+	"license": "ISC"
+}
